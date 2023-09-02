@@ -26,3 +26,6 @@ Report image
 [REPORT FOR GLOBAL ECONOMIC DATA.pdf](https://github.com/MONISHASRI12/Global-Economic-data/files/12503408/REPORT.FOR.GLOBAL.ECONOMIC.DATA.pdf)
 
 
+
+Getting Started with Enterprise Data Science Badge
+[Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-rgwjlq.pdf](https://github.com/Shashmithayoganarajah/GLOBAL_ECONOMIC_DATA/files/12503510/Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-rgwjlq.pdf)
