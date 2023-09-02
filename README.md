@@ -27,11 +27,7 @@ Report image
 
 
 
-Getting Started With Enterprise Data Science
+Getting Started With Enterprise Data Science Badge
 ![getting-started-with-enterprise-data-science 2](https://github.com/Shashmithayoganarajah/GLOBAL_ECONOMIC_DATA/assets/139777522/1a54f1f2-aaef-4fa9-b30f-f5746ea098b3)
 
-
-
-
-Getting Started with Enterprise Data Science Badge
 
